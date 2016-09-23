@@ -8,3 +8,11 @@ body {
   width: 960px;
   margin: 20px auto 20px auto;
 }
+h4 {
+  color:purple;
+}
+.summary {
+  color:turquoise;
+  padding: 30px 30px 30px 30px;
+  background-color:blue;
+}
