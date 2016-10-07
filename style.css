@@ -23,6 +23,10 @@ h1 {
 .Betsy{
   color:red
 }
-.white{
-  color:white
+
+#paragraph{
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Indie Flower', cursive;
 }
